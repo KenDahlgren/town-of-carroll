@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Town of Carroll">
+  <rect width="32" height="32" rx="7" fill="#1F4A3A"/>
+  <path fill="#F3EFE6" d="M5 16.6 16 6.2 27 16.6h-2.6V26H7.6v-9.4z"/>
+  <rect x="13.5" y="18.4" width="5" height="7.6" fill="#A33B24"/>
+</svg>
